@@ -1,0 +1,1 @@
+Welcome to the LightMyFire Clone repository! This project showcases a beautifully crafted clone of the LightMyFire website, complete with smooth and engaging animations that enhance the user experience.
